@@ -1,7 +1,7 @@
 
 ---
 
-# E.C.H.O - Your Personal Voice Assistant 🤖🎤
+# E.C.H.O - Your Virtual  Voice Assistant 🤖
 
 ## Overview
 E.C.H.O is a JavaScript-based AI voice assistant designed to enhance your productivity by automating tasks, answering queries, controlling system functions, playing music, performing web searches, and much more! 🚀💡
